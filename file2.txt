@@ -1,3 +1,5 @@
 This is the second .txt file that I created for this repository. 
 
 Nothing special. 
+
+What is happening?
